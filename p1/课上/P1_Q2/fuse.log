@@ -1,0 +1,21 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "E:/Verilog_tool/p1/P1_Q2/rwar_isim_beh.exe" -prj "E:/Verilog_tool/p1/P1_Q2/rwar_beh.prj" "work.rwar" "work.glbl" 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "E:/Verilog_tool/p1/P1_Q2/awful_fsm.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p1/P1_Q2/rwar.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 159700 KB
+Fuse CPU Usage: 108 ms
+Compiling module awful_fsm
+Compiling module rwar
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 3 Verilog Units
+Built simulation executable E:/Verilog_tool/p1/P1_Q2/rwar_isim_beh.exe
+Fuse Memory Usage: 165012 KB
+Fuse CPU Usage: 140 ms

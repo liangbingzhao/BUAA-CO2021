@@ -1,0 +1,3 @@
+verilog isim_temp "awful_fsm.v"
+verilog isim_temp "rwar.v"
+verilog isim_temp "E:/Verilog_tool/14.7/ISE_DS/ISE//verilog/src/glbl.v"
