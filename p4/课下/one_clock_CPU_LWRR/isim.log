@@ -1,0 +1,123 @@
+ISim log file
+Running: E:\Verilog_tool\p4plus\one_clock_CPU\tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb E:/Verilog_tool/p4plus/one_clock_CPU/tb_isim_beh.wdb 
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 5 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+@00003000: $16 <= 00000005
+# run 5ns
+# run 5ns
+@00003004: $17 <= 00000008
+# run 5ns
+# run 5ns
+@00003008: $ 8 <= 00000007
+# run 5ns
+# run 5ns
+@0000300c: *00000008 <= 00000007
+# run 5ns
+# run 5ns
+@00003010: $ 8 <= 00000007
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+# run 5 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+@00003000: $16 <= 00000005
+# run 5ns
+# run 5ns
+@00003004: $17 <= 00000008
+# run 5ns
+# run 5ns
+@00003008: $ 8 <= 00000007
+# run 5ns
+# run 5ns
+@0000300c: *00000008 <= 00000007
+# run 5ns
+# run 5ns
+@00003010: $ 8 <= 00000007
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+# run 5 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+@00003000: $16 <= 00000005
+# run 10ns
+@00003004: $17 <= 00000008
+# run 10ns
+@00003008: $ 8 <= 00000007
+# run 10ns
+@0000300c: *00000008 <= 00000007
+# run 10ns
+@00003010: $ 8 <= 00000007
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+# run 5 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+@00003000: $16 <= 00000005
+# run 10ns
+@00003004: $17 <= 00000008
+# run 10ns
+@00003008: $ 8 <= 00000007
+# run 5ns
+# run 5ns
+@0000300c: *00000008 <= 00000007
+# run 5ns
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+# run 5 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+@00003000: $16 <= 00000005
+# run 5ns
+# run 5ns
+@00003004: $17 <= 00000008
+# run 5ns
+# run 5ns
+@00003008: $ 8 <= 00000007
+# run 5ns
+# run 5ns
+@0000300c: *00000008 <= 00000007
+# run 5ns
+# run 5ns
+@00003010: $ 8 <= 00000007
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+# run 5 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+@00003000: $16 <= 00000005
+# run 5ns
+# run 5ns
+@00003004: $17 <= 0000000a
+# run 5ns
+# run 5ns
+@00003008: $ 8 <= 00000007
+# run 5ns
+# run 5ns
+@0000300c: *0000000a <= 00000007
+# run 5ns
+# run 5ns
+@00003010: $ 8 <= c0000000
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+# run 5 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+@00003000: $16 <= 00000005
+# run 5ns
+# run 5ns
+@00003004: $17 <= 0000000a
+# run 5ns
+# run 5ns
+@00003008: $ 8 <= 00000007
+# run 5ns
+# run 5ns
+@0000300c: *0000000a <= 00000007
+# run 5ns
+# run 5ns
+@00003010: $ 8 <= 00070000

@@ -1,0 +1,6 @@
+vhdtdtfi -lang verilog -prj one_clock_CPU -o E:/Verilog_tool/p4/one_clock_CPU/IM.tfi -lib work E:/Verilog_tool/p4/one_clock_CPU//IM.v -module IM -template E:/Verilog_tool/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lang verilog -prj one_clock_CPU -o E:/Verilog_tool/p4/one_clock_CPU/IM.tfi -lib work E:/Verilog_tool/p4/one_clock_CPU//IM.v -module IM -template E:/Verilog_tool/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lang verilog -prj one_clock_CPU -o E:/Verilog_tool/p4/one_clock_CPU/IM.tfi -lib work E:/Verilog_tool/p4/one_clock_CPU//IM.v -module IM -template E:/Verilog_tool/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lang verilog -prj one_clock_CPU -o E:/Verilog_tool/p4/one_clock_CPU/IM.tfi -lib work E:/Verilog_tool/p4/one_clock_CPU//IM.v -module IM -template E:/Verilog_tool/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lang verilog -prj one_clock_CPU -o E:/Verilog_tool/p4/one_clock_CPU/IM.tfi -lib work E:/Verilog_tool/p4/one_clock_CPU//IM.v -module IM -template E:/Verilog_tool/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lang verilog -prj one_clock_CPU -o E:/Verilog_tool/p4/one_clock_CPU/IM.tfi -lib work E:/Verilog_tool/p4/one_clock_CPU//IM.v -module IM -template E:/Verilog_tool/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

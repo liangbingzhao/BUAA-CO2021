@@ -1,0 +1,17 @@
+
+
+
+// Instantiate the module
+instr_splitter instance_name (
+    .Instr(Instr), 
+    .opt(opt), 
+    .rs(rs), 
+    .rt(rt), 
+    .rd(rd), 
+    .shamt(shamt), 
+    .func(func), 
+    .instr_index(instr_index), 
+    .imm(imm)
+    );
+
+

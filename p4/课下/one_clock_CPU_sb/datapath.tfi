@@ -1,0 +1,23 @@
+
+
+
+// Instantiate the module
+datapath instance_name (
+    .clk(clk), 
+    .reset(reset), 
+    .op(op), 
+    .func(func), 
+    .sign(sign), 
+    .Branch(Branch), 
+    .MemWrite(MemWrite), 
+    .RegWrite(RegWrite), 
+    .MemtoReg(MemtoReg), 
+    .ALUsrc(ALUsrc), 
+    .RegDst(RegDst), 
+    .ALUControl(ALUControl), 
+    .PCj(PCj), 
+    .jalsave(jalsave), 
+    .jr(jr)
+    );
+
+

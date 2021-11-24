@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+MUX2_5 instance_name (
+    .in1(in1), 
+    .in2(in2), 
+    .op(op), 
+    .out(out)
+    );
+
+

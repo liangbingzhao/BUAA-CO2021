@@ -1,0 +1,61 @@
+ISim log file
+Running: E:\Verilog_tool\p4\one_clock_CPU_BLR\tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb E:/Verilog_tool/p4/one_clock_CPU_BLR/tb_isim_beh.wdb 
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 10 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+@00003000: $ 1 <= 00040000
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+# run 10 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+@00003000: $ 1 <= 00040000
+# run 10ns
+@00003004: $ 1 <= 0004ffff
+# run 10ns
+@00003008: $16 <= 0004ffff
+# run 10ns
+@0000300c: $ 4 <= 0004ffff
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+# run 10 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+@00003000: $ 1 <= 00040000
+# run 10ns
+@00003004: $ 1 <= 0004ffff
+# run 10ns
+@00003008: $16 <= 0004ffff
+# run 10ns
+@0000300c: $ 4 <= 0004ffff
+# run 10ns
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+# run 10 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+@00003000: $ 1 <= 00040000
+# run 10ns
+@00003004: $ 1 <= 0004ffff
+# run 10ns
+@00003008: $16 <= 0004ffff
+# run 10ns
+@0000300c: $ 4 <= 0004ffff
+# run 10ns
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+# run 10 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+@00003000: $ 1 <= 00040000
+# run 10ns
+@00003004: $ 1 <= 0004ffff
+# run 10ns
+@00003008: $16 <= 0004ffff
+# run 10ns
+@0000300c: $ 4 <= 00048000

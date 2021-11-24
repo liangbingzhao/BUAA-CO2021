@@ -1,0 +1,17 @@
+
+
+
+// Instantiate the module
+NPC instance_name (
+    .PCSrc(PCSrc), 
+    .PCj(PCj), 
+    .jr(jr), 
+    .PC(PC), 
+    .ScrA(ScrA), 
+    .NPC(NPC), 
+    .PC4(PC4), 
+    .instr_index(instr_index), 
+    .SignImm(SignImm)
+    );
+
+

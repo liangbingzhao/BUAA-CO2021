@@ -1,0 +1,21 @@
+
+
+
+// Instantiate the module
+Controller instance_name (
+    .op(op), 
+    .func(func), 
+    .sign(sign), 
+    .Branch(Branch), 
+    .MemWrite(MemWrite), 
+    .RegWrite(RegWrite), 
+    .MemtoReg(MemtoReg), 
+    .ALUsrc(ALUsrc), 
+    .RegDst(RegDst), 
+    .ALUControl(ALUControl), 
+    .PCj(PCj), 
+    .jalsave(jalsave), 
+    .jr(jr)
+    );
+
+

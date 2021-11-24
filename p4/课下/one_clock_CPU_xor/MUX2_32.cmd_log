@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj one_clock_CPU -o E:/Verilog_tool/p4/one_clock_CPU/MUX2_32.tfi -lib work E:/Verilog_tool/p4/one_clock_CPU//MUX.v -module MUX2_32 -template E:/Verilog_tool/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

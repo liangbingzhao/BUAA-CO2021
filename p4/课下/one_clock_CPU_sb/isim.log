@@ -1,0 +1,45 @@
+ISim log file
+Running: E:\Verilog_tool\p4plus\one_clock_CPU\tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb E:/Verilog_tool/p4plus/one_clock_CPU/tb_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "E:/Verilog_tool/p4plus/one_clock_CPU/datapath.v" Line 70.  For instance dp/dm/, width 2 of formal port sb_byte is not equal to width 1 of actual signal sb_byte.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 5 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+@00003000: $16 <= 000001f4
+# run 1.00us
+@00003004: $17 <= 00000008
+@00003008: *00000008 <= 00000000
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "E:/Verilog_tool/p4plus/one_clock_CPU/datapath.v" Line 70.  For instance dp/dm/, width 2 of formal port sb_byte is not equal to width 1 of actual signal sb_byte.
+# run 5 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+@00003000: $16 <= 000001f4
+# run 5ns
+# run 5ns
+@00003004: $17 <= 00000008
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "E:/Verilog_tool/p4plus/one_clock_CPU/datapath.v" Line 70.  For instance dp/dm/, width 2 of formal port sb_byte is not equal to width 1 of actual signal sb_byte.
+# run 5 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+@00003000: $16 <= 000001f4
+# run 5ns
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+# run 5 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+@00003000: $16 <= 000001f4
+# run 5ns
+# run 5ns
+@00003004: $17 <= 00000008
+# run 5ns
+# run 5ns
+@00003008: *00000008 <= 000000f4

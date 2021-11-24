@@ -1,0 +1,11 @@
+
+
+
+// Instantiate the module
+beqj instance_name (
+    .Branch(Branch), 
+    .Zero(Zero), 
+    .PCSrc(PCSrc)
+    );
+
+

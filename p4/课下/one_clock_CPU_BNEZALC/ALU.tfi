@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+ALU instance_name (
+    .op(op), 
+    .inA(inA), 
+    .inB(inB), 
+    .Zero(Zero), 
+    .ALUResult(ALUResult)
+    );
+
+

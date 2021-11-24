@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "E:/Verilog_tool/p4/one_clock_CPU_BLR/tb_isim_beh.exe" -prj "E:/Verilog_tool/p4/one_clock_CPU_BLR/tb_beh.prj" "work.tb" "work.glbl" 

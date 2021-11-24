@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2021-11-14T16:06:44</DateModified>
+  <DateModified>2021-11-23T15:21:09</DateModified>
   <ModuleName>mips</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
   <SavedFilePath>E:/Verilog_tool/p4/one_clock_CPU/iseconfig/mips.xreport</SavedFilePath>

@@ -1,4 +1,4 @@
-Running: E:\Verilog_tool\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o E:/Verilog_tool/p4/one_clock_CPU/tb_isim_beh.exe -prj E:/Verilog_tool/p4/one_clock_CPU/tb_beh.prj work.tb work.glbl 
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "E:/Verilog_tool/p4/one_clock_CPU/tb_isim_beh.exe" -prj "E:/Verilog_tool/p4/one_clock_CPU/tb_beh.prj" "work.tb" "work.glbl" 
 ISim P.20131013 (signature 0x8ef4fb42)
 Number of CPUs detected in this system: 8
 Turning on mult-threading, number of parallel sub-compilation jobs: 16 
@@ -20,8 +20,8 @@ Analyzing Verilog file "E:/Verilog_tool/p4/one_clock_CPU/tb.v" into library work
 Analyzing Verilog file "E:/Verilog_tool/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
 Starting static elaboration
 Completed static elaboration
-Fuse Memory Usage: 159764 KB
-Fuse CPU Usage: 186 ms
+Fuse Memory Usage: 159956 KB
+Fuse CPU Usage: 156 ms
 Compiling module ALU
 Compiling module DM
 Compiling module EXT
@@ -39,8 +39,8 @@ Compiling module mips
 Compiling module tb
 Compiling module glbl
 Time Resolution for simulation is 1ps.
-Waiting for 1 sub-compilation(s) to finish...
+Waiting for 2 sub-compilation(s) to finish...
 Compiled 16 Verilog Units
 Built simulation executable E:/Verilog_tool/p4/one_clock_CPU/tb_isim_beh.exe
-Fuse Memory Usage: 168312 KB
-Fuse CPU Usage: 265 ms
+Fuse Memory Usage: 167316 KB
+Fuse CPU Usage: 234 ms
