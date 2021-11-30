@@ -1,0 +1,318 @@
+ISim log file
+Running: E:\Verilog_tool\p5\pipeline_cpu\tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb E:/Verilog_tool/p5/pipeline_cpu/tb_isim_beh.wdb 
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 10 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+# run 10 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run 10ns
+# run 10ns
+# run 10ns
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+# run 10 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run 20ns
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+# run 10 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run 10ns
+# run 5ns
+# run 5ns
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+# run 10 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run 5ns
+# run 5ns
+# run 5ns
+# run 5ns
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+# run 10 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run 1us
+                  45@00003000: $ 4 <= 00000100
+                  55@00003004: $ 5 <= 00000123
+                  65@00003008: $ 6 <= 01c80000
+                  75@0000300c: $ 7 <= ffff0000
+                  85@00003010: $ 7 <= ffffffff
+                  95@00003014: $16 <= 01c80100
+                 105@00003018: $17 <= 000000ff
+                 115@0000301c: $20 <= fffffffe
+                 125@00003020: $18 <= fe380100
+                 135@00003024: $19 <= 00000101
+                 135@00003028: *00000000 <= 00000100
+                 145@0000302c: *00000004 <= 00000123
+                 155@00003030: *00000008 <= 01c80000
+                 165@00003034: *0000000c <= ffffffff
+                 175@00003038: *00000010 <= 01c80100
+                 185@0000303c: *00000014 <= 000000ff
+                 195@00003040: *00000018 <= fe380100
+                 205@00003044: *0000002c <= 00000101
+                 215@00003048: *00000030 <= fffffffe
+                 235@0000304c: $ 4 <= 00000100
+                 245@00003050: $ 5 <= ffffffff
+                 245@00003054: *0000001c <= 00000100
+                 255@00003058: *00000020 <= ffffffff
+                 275@0000305c: $ 4 <= 00000001
+                 285@00003060: $ 5 <= 00000002
+                 295@00003064: $ 6 <= 00000001
+                 315@00003070: *00000024 <= 00000001
+                 325@00003074: *00000028 <= 00000002
+                 345@00003078: $31 <= 00003080
+                 355@0000307c: $31 <= 00003084
+                 355@0000308c: *00000038 <= 00000002
+                 365@0000308c: *00000038 <= 00000002
+                 375@00003090: *0000003c <= 00003084
+                 395@00003094: $21 <= 00000005
+                 405@0000309c: *00000044 <= 00000002
+                 425@00003084: $ 5 <= 00000006
+                 435@00003088: $31 <= 00003090
+                 435@0000308c: *00000038 <= 00000006
+                 445@0000309c: *00000044 <= 00000006
+                 455@000030a0: *00000048 <= 00003090
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+# run 10 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run 10ns
+# run 10ns
+# run 10ns
+# run 10ns
+                  45@00003000: $ 4 <= 00000100
+# run 10ns
+                  55@00003004: $ 5 <= 00000123
+# run 10ns
+                  65@00003008: $ 6 <= 01c80000
+# run 10ns
+                  75@0000300c: $ 7 <= ffff0000
+# run 20ns
+                  85@00003010: $ 7 <= ffffffff
+                  95@00003014: $16 <= 01c80100
+# run 100ns
+                 105@00003018: $17 <= 000000ff
+                 115@0000301c: $20 <= fffffffe
+                 125@00003020: $18 <= fe380100
+                 135@00003024: $19 <= 00000101
+                 135@00003028: *00000000 <= 00000100
+                 145@0000302c: *00000004 <= 00000123
+                 155@00003030: *00000008 <= 01c80000
+                 165@00003034: *0000000c <= ffffffff
+                 175@00003038: *00000010 <= 01c80100
+                 185@0000303c: *00000014 <= 000000ff
+                 195@00003040: *00000018 <= fe380100
+# run 30ns
+                 205@00003044: *0000002c <= 00000101
+                 215@00003048: *00000030 <= fffffffe
+# run 30ns
+                 235@0000304c: $ 4 <= 00000100
+                 245@00003050: $ 5 <= ffffffff
+                 245@00003054: *0000001c <= 00000100
+                 255@00003058: *00000020 <= ffffffff
+# run 5ns
+# run 5ns
+# run 5ns
+                 275@0000305c: $ 4 <= 00000001
+# run 5ns
+# run 5ns
+                 285@00003060: $ 5 <= 00000002
+# run 5ns
+# run 5ns
+                 295@00003064: $ 6 <= 00000001
+# run 5ns
+# run 5ns
+# run 5ns
+# run 5ns
+                 315@00003070: *00000024 <= 00000001
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+# run 10 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run 270ns
+                  45@00003000: $ 4 <= 00000100
+                  55@00003004: $ 5 <= 00000123
+                  65@00003008: $ 6 <= 01c80000
+                  75@0000300c: $ 7 <= ffff0000
+                  85@00003010: $ 7 <= ffffffff
+                  95@00003014: $16 <= 01c80100
+                 105@00003018: $17 <= 000000ff
+                 115@0000301c: $20 <= fffffffe
+                 125@00003020: $18 <= fe380100
+                 135@00003024: $19 <= 00000101
+                 135@00003028: *00000000 <= 00000100
+                 145@0000302c: *00000004 <= 00000123
+                 155@00003030: *00000008 <= 01c80000
+                 165@00003034: *0000000c <= ffffffff
+                 175@00003038: *00000010 <= 01c80100
+                 185@0000303c: *00000014 <= 000000ff
+                 195@00003040: *00000018 <= fe380100
+                 205@00003044: *0000002c <= 00000101
+                 215@00003048: *00000030 <= fffffffe
+                 235@0000304c: $ 4 <= 00000100
+                 245@00003050: $ 5 <= ffffffff
+                 245@00003054: *0000001c <= 00000100
+                 255@00003058: *00000020 <= ffffffff
+                 275@0000305c: $ 4 <= 00000001
+# run 5ns
+                 285@00003060: $ 5 <= 00000002
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+# run 10 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run 270ns
+                  45@00003000: $ 4 <= 00000100
+                  55@00003004: $ 5 <= 00000123
+                  65@00003008: $ 6 <= 01c80000
+                  75@0000300c: $ 7 <= ffff0000
+                  85@00003010: $ 7 <= ffffffff
+                  95@00003014: $16 <= 01c80100
+                 105@00003018: $17 <= 000000ff
+                 115@0000301c: $20 <= fffffffe
+                 125@00003020: $18 <= fe380100
+                 135@00003024: $19 <= 00000101
+                 135@00003028: *00000000 <= 00000100
+                 145@0000302c: *00000004 <= 00000123
+                 155@00003030: *00000008 <= 01c80000
+                 165@00003034: *0000000c <= ffffffff
+                 175@00003038: *00000010 <= 01c80100
+                 185@0000303c: *00000014 <= 000000ff
+                 195@00003040: *00000018 <= fe380100
+                 205@00003044: *0000002c <= 00000101
+                 215@00003048: *00000030 <= fffffffe
+                 235@0000304c: $ 4 <= 00000100
+                 245@00003050: $ 5 <= ffffffff
+                 245@00003054: *0000001c <= 00000100
+                 255@00003058: *00000020 <= ffffffff
+                 275@0000305c: $ 4 <= 00000001
+# run 5ns
+                 285@00003060: $ 5 <= 00000002
+# run 5ns
+# run 5ns
+                 295@00003064: $ 6 <= 00000001
+# run 5ns
+# run 5ns
+# run 5ns
+# run 5ns
+                 315@00003070: *00000024 <= 00000001
+# run 5ns
+# run 5ns
+                 325@00003074: *00000028 <= 00000002
+# run 5ns
+# run 5ns
+# run 5ns
+# run 5ns
+                 345@00003078: $31 <= 00003080
+# run 5ns
+# run 5ns
+                 355@0000307c: $31 <= 00003084
+                 355@0000308c: *00000038 <= 00000002
+# run 5ns
+# run 5ns
+                 365@0000308c: *00000038 <= 00000002
+# run 5ns
+# run 5ns
+                 375@00003090: *0000003c <= 00003084
+# run 5ns
+# run 5ns
+# run 5ns
+# run 5ns
+                 395@00003094: $21 <= 00000005
+# run 5ns
+# run 5ns
+                 405@0000309c: *00000044 <= 00000002
+# run 5ns
+# run 5ns
+# run 5ns
+# run 5ns
+                 425@00003084: $ 5 <= 00000006
+# run 5ns
+# run 5ns
+                 435@00003088: $31 <= 00003090
+                 435@0000308c: *00000038 <= 00000006
+# run 5ns
+# run 5ns
+                 445@0000309c: *00000044 <= 00000006
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+# run 10 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run 260ns
+                  45@00003000: $ 4 <= 00000100
+                  55@00003004: $ 5 <= 00000123
+                  65@00003008: $ 6 <= 01c80000
+                  75@0000300c: $ 7 <= ffff0000
+                  85@00003010: $ 7 <= ffffffff
+                  95@00003014: $16 <= 01c80100
+                 105@00003018: $17 <= 000000ff
+                 115@0000301c: $20 <= fffffffe
+                 125@00003020: $18 <= fe380100
+                 135@00003024: $19 <= 00000101
+                 135@00003028: *00000000 <= 00000100
+                 145@0000302c: *00000004 <= 00000123
+                 155@00003030: *00000008 <= 01c80000
+                 165@00003034: *0000000c <= ffffffff
+                 175@00003038: *00000010 <= 01c80100
+                 185@0000303c: *00000014 <= 000000ff
+                 195@00003040: *00000018 <= fe380100
+                 205@00003044: *0000002c <= 00000101
+                 215@00003048: *00000030 <= fffffffe
+                 235@0000304c: $ 4 <= 00000100
+                 245@00003050: $ 5 <= ffffffff
+                 245@00003054: *0000001c <= 00000100
+                 255@00003058: *00000020 <= ffffffff
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+# run 10 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run 240ns
+                  45@00003000: $ 4 <= 00000100
+                  55@00003004: $ 5 <= 00000123
+                  65@00003008: $ 6 <= 01c80000
+                  75@0000300c: $ 7 <= ffff0000
+                  85@00003010: $ 7 <= ffffffff
+                  95@00003014: $16 <= 01c80100
+                 105@00003018: $17 <= 000000ff
+                 115@0000301c: $20 <= fffffffe
+                 125@00003020: $18 <= fe380100
+                 135@00003024: $19 <= 00000101
+                 135@00003028: *00000000 <= 00000100
+                 145@0000302c: *00000004 <= 00000123
+                 155@00003030: *00000008 <= 01c80000
+                 165@00003034: *0000000c <= ffffffff
+                 175@00003038: *00000010 <= 01c80100
+                 185@0000303c: *00000014 <= 000000ff
+                 195@00003040: *00000018 <= fe380100
+                 205@00003044: *0000002c <= 00000101
+                 215@00003048: *00000030 <= fffffffe
+                 235@0000304c: $ 4 <= 00000100
+                 245@00003050: $ 5 <= ffffffff
+                 245@00003054: *0000001c <= 00000100
+# run 5ns
+                 255@00003058: *00000020 <= ffffffff
+# run 5ns
+# run 5ns
+# run 5ns
+# run 5ns
+                 275@0000305c: $ 4 <= 00000001
+# run 5ns
+# run 5ns
+                 285@00003060: $ 5 <= 00000002

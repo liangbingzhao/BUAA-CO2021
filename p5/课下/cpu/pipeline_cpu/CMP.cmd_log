@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj pipeline_cpu -o E:/Verilog_tool/p5/pipeline_cpu/CMP.tfi -lib work E:/Verilog_tool/p5/pipeline_cpu//CMP.v -module CMP -template E:/Verilog_tool/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

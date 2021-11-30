@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj pipeline_cpu -o E:/Verilog_tool/p5/pipeline_cpu/ALU.tfi -lib work E:/Verilog_tool/p5/pipeline_cpu//ALU.v -module ALU -template E:/Verilog_tool/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
