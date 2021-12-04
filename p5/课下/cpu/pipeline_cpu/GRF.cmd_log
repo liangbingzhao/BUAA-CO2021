@@ -1,1 +1,0 @@
-vhdtdtfi -lang verilog -prj pipeline_cpu -o E:/Verilog_tool/p5/pipeline_cpu/GRF.tfi -lib work E:/Verilog_tool/p5/pipeline_cpu//GRF.v -module GRF -template E:/Verilog_tool/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

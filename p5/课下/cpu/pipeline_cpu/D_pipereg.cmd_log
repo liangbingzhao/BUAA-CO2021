@@ -1,1 +1,0 @@
-vhdtdtfi -lang verilog -prj pipeline_cpu -o E:/Verilog_tool/p5/pipeline_cpu/D_pipereg.tfi -lib work E:/Verilog_tool/p5/pipeline_cpu//D_pipereg.v -module D_pipereg -template E:/Verilog_tool/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
