@@ -1,0 +1,14 @@
+
+
+
+// Instantiate the module
+instruction_fetch instance_name (
+    .clk(clk), 
+    .reset(reset), 
+    .en(en), 
+    .NPC(NPC), 
+    .F_instr(F_instr), 
+    .F_PC(F_PC)
+    );
+
+

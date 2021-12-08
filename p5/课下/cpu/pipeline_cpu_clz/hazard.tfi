@@ -1,0 +1,40 @@
+
+
+
+// Instantiate the module
+hazard instance_name (
+    .clk(clk), 
+    .reset(reset), 
+    .D_A1(D_A1), 
+    .D_A2(D_A2), 
+    .D_RD1(D_RD1), 
+    .D_RD2(D_RD2), 
+    .D_rs_Tuse(D_rs_Tuse), 
+    .D_rt_Tuse(D_rt_Tuse), 
+    .E_A1(E_A1), 
+    .E_A2(E_A2), 
+    .E_RD1(E_RD1), 
+    .E_RD2(E_RD2), 
+    .E_A3(E_A3), 
+    .E_WD(E_WD), 
+    .E_rs_Tuse(E_rs_Tuse), 
+    .E_rt_Tuse(E_rt_Tuse), 
+    .M_A2(M_A2), 
+    .M_RD2(M_RD2), 
+    .M_A3(M_A3), 
+    .M_WD(M_WD), 
+    .W_A3(W_A3), 
+    .W_WD(W_WD), 
+    .D_Forward1(D_Forward1), 
+    .D_Forward2(D_Forward2), 
+    .E_Forward1(E_Forward1), 
+    .E_Forward2(E_Forward2), 
+    .M_Forward2(M_Forward2), 
+    .F_en(F_en), 
+    .D_pipereg_en(D_pipereg_en), 
+    .E_pipereg_en(E_pipereg_en), 
+    .E_pipereg_flush(E_pipereg_flush), 
+    .M_pipereg_flush(M_pipereg_flush)
+    );
+
+

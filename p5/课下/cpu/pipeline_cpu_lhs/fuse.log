@@ -1,0 +1,58 @@
+Running: E:\Verilog_tool\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o E:/Verilog_tool/p5plus/pipeline_cpu_lhs/tb_isim_beh.exe -prj E:/Verilog_tool/p5plus/pipeline_cpu_lhs/tb_beh.prj work.tb work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "E:/Verilog_tool/p5plus/pipeline_cpu_lhs/PC.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p5plus/pipeline_cpu_lhs/NPC.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p5plus/pipeline_cpu_lhs/IM.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p5plus/pipeline_cpu_lhs/GRF.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p5plus/pipeline_cpu_lhs/EXT.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p5plus/pipeline_cpu_lhs/DM.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p5plus/pipeline_cpu_lhs/Control.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p5plus/pipeline_cpu_lhs/CMP.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p5plus/pipeline_cpu_lhs/ALU.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p5plus/pipeline_cpu_lhs/W_pipereg.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p5plus/pipeline_cpu_lhs/M_pipereg.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p5plus/pipeline_cpu_lhs/instruction_memory.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p5plus/pipeline_cpu_lhs/instruction_fetch.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p5plus/pipeline_cpu_lhs/instruction_execute.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p5plus/pipeline_cpu_lhs/instruction_decode.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p5plus/pipeline_cpu_lhs/hazard.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p5plus/pipeline_cpu_lhs/E_pipereg.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p5plus/pipeline_cpu_lhs/D_pipereg.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p5plus/pipeline_cpu_lhs/mips.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p5plus/pipeline_cpu_lhs/tb.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1016 - "E:/Verilog_tool/p5plus/pipeline_cpu_lhs/instruction_decode.v" Line 73: Port ALUControl is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/Verilog_tool/p5plus/pipeline_cpu_lhs/instruction_execute.v" Line 69: Port D_equal is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/Verilog_tool/p5plus/pipeline_cpu_lhs/instruction_memory.v" Line 65: Port D_equal is not connected to this instance
+Completed static elaboration
+Compiling module PC
+Compiling module IM
+Compiling module instruction_fetch
+Compiling module D_pipereg
+Compiling module Controller
+Compiling module NPC
+Compiling module EXT
+Compiling module GRF
+Compiling module CMP
+Compiling module instruction_decode
+Compiling module E_pipereg
+Compiling module ALU
+Compiling module instruction_execute
+Compiling module M_pipereg
+Compiling module DM
+Compiling module instruction_memory
+Compiling module W_pipereg
+Compiling module hazard
+Compiling module mips
+Compiling module tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 6 sub-compilation(s) to finish...
+Compiled 21 Verilog Units
+Built simulation executable E:/Verilog_tool/p5plus/pipeline_cpu_lhs/tb_isim_beh.exe
+Fuse Memory Usage: 31584 KB
+Fuse CPU Usage: 609 ms

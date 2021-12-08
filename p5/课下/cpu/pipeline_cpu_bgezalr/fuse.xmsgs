@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"E:/Verilog_tool/p5plus/pipeline_cpu/instruction_decode.v" Line 81: Port <arg fmt="%s" index="1">ALUControl</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"E:/Verilog_tool/p5plus/pipeline_cpu/instruction_execute.v" Line 69: Port <arg fmt="%s" index="1">D_equal</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"E:/Verilog_tool/p5plus/pipeline_cpu/instruction_memory.v" Line 58: Port <arg fmt="%s" index="1">D_equal</arg> is not connected to this instance
+</msg>
+
+</messages>
+

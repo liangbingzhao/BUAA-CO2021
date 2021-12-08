@@ -1,0 +1,17 @@
+ISim log file
+Running: E:\Verilog_tool\p5plus\pipeline_cpu\tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb E:/Verilog_tool/p5plus/pipeline_cpu/tb_isim_beh.wdb 
+ISim P.20131013 (signature 0x8ef4fb42)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 10 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run 1.00us
+                  45@00003000: $ 8 <= 00000002
+                  55@00003004: $16 <= 00003014
+                  75@00003008: $17 <= 00003010
+                  85@0000300c: $18 <= 00000003
+                  95@00003014: $ 9 <= 00003012
+                 105@00003018: $18 <= 00000003

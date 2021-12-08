@@ -1,0 +1,20 @@
+
+
+
+// Instantiate the module
+instruction_execute instance_name (
+    .clk(clk), 
+    .reset(reset), 
+    .E_instr(E_instr), 
+    .E_signimm(E_signimm), 
+    .E_WD(E_WD), 
+    .E_Forward1(E_Forward1), 
+    .E_Forward2(E_Forward2), 
+    .E_WD_M(E_WD_M), 
+    .E_ALUResult(E_ALUResult), 
+    .E_RD2(E_RD2), 
+    .E_rs_Tuse(E_rs_Tuse), 
+    .E_rt_Tuse(E_rt_Tuse)
+    );
+
+

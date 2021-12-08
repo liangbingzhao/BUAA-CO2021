@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "E:/Verilog_tool/p5plus/pipeline_cpu/tb_isim_beh.exe" -prj "E:/Verilog_tool/p5plus/pipeline_cpu/tb_beh.prj" "work.tb" "work.glbl" 

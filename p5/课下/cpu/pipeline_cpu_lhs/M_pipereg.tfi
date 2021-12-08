@@ -1,0 +1,23 @@
+
+
+
+// Instantiate the module
+M_pipereg instance_name (
+    .clk(clk), 
+    .reset(reset), 
+    .flush(flush), 
+    .E_PC(E_PC), 
+    .E_instr(E_instr), 
+    .E_A3(E_A3), 
+    .E_WD(E_WD), 
+    .E_ALUResult(E_ALUResult), 
+    .E_RD2(E_RD2), 
+    .M_PC(M_PC), 
+    .M_instr(M_instr), 
+    .M_A3(M_A3), 
+    .M_WD(M_WD), 
+    .M_ALUResult(M_ALUResult), 
+    .M_RD2(M_RD2)
+    );
+
+
