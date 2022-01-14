@@ -1,0 +1,59 @@
+Running: E:\Verilog_tool\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o E:/Verilog_tool/p6(greater)/pipeline/mips_txt_isim_beh.exe -prj E:/Verilog_tool/p6(greater)/pipeline/mips_txt_beh.prj work.mips_txt work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "E:/Verilog_tool/p6(greater)/pipeline/NPC.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p6(greater)/pipeline/MD.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p6(greater)/pipeline/GRF.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p6(greater)/pipeline/EXT.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p6(greater)/pipeline/en_byte.v" into library work
+WARNING:HDLCompiler:568 - "E:/Verilog_tool/p6(greater)/pipeline/en_byte.v" Line 87: Constant value is truncated to fit in <4> bits.
+Analyzing Verilog file "E:/Verilog_tool/p6(greater)/pipeline/data_extend.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p6(greater)/pipeline/Control.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p6(greater)/pipeline/CMP.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p6(greater)/pipeline/ALU.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p6(greater)/pipeline/W_pipereg.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p6(greater)/pipeline/PC.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p6(greater)/pipeline/M_pipereg.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p6(greater)/pipeline/instruction_memory.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p6(greater)/pipeline/instruction_execute.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p6(greater)/pipeline/instruction_decode.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p6(greater)/pipeline/hazard.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p6(greater)/pipeline/E_pipereg.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p6(greater)/pipeline/D_pipereg.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p6(greater)/pipeline/mips.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/p6(greater)/pipeline/mips_tb.v" into library work
+Analyzing Verilog file "E:/Verilog_tool/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1016 - "E:/Verilog_tool/p6(greater)/pipeline/instruction_decode.v" Line 84: Port ALUControl is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/Verilog_tool/p6(greater)/pipeline/instruction_execute.v" Line 74: Port D_equal is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/Verilog_tool/p6(greater)/pipeline/instruction_memory.v" Line 35: Port D_equal is not connected to this instance
+Completed static elaboration
+Compiling module PC
+Compiling module D_pipereg
+Compiling module Controller
+Compiling module NPC
+Compiling module EXT
+Compiling module GRF
+Compiling module CMP
+Compiling module instruction_decode
+Compiling module E_pipereg
+Compiling module ALU
+Compiling module MD
+Compiling module instruction_execute
+Compiling module M_pipereg
+Compiling module en_byte
+Compiling module data_extend
+Compiling module instruction_memory
+Compiling module W_pipereg
+Compiling module hazard
+Compiling module mips
+Compiling module mips_txt
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 5 sub-compilation(s) to finish...
+Compiled 21 Verilog Units
+Built simulation executable E:/Verilog_tool/p6(greater)/pipeline/mips_txt_isim_beh.exe
+Fuse Memory Usage: 34248 KB
+Fuse CPU Usage: 499 ms

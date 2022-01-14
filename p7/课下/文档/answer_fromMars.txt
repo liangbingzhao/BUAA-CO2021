@@ -1,0 +1,6 @@
+@00003000: $ 4 <= 00003001
+@00003008: $ 4 <= 00003008
+Error in : invalid program counter value: 0x00003001
+
+Processing terminated due to errors.
+

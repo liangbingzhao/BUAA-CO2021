@@ -1,0 +1,20 @@
+ISim log file
+Running: E:\Verilog_tool\p6plus\pipeline\mips_txt_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb E:/Verilog_tool/p6plus/pipeline/mips_txt_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 20ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run 1.00us
+@00003000: $ 8 <= 00000002
+@00003004: $ 1 <= ffff0000
+@00003008: $ 1 <= ffffffff
+@0000300c: $ 9 <= ffffffff
+@00003014: $ 1 <= ffff0000
+@00003018: $ 1 <= fffffffe
+@0000301c: $10 <= fffffffe
+@00003024: $16 <= 00000002
+@00003028: $17 <= 00000000

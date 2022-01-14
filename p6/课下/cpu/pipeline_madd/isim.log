@@ -1,0 +1,41 @@
+ISim log file
+Running: E:\Verilog_tool\p6plus\pipeline\mips_txt_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb E:/Verilog_tool/p6plus/pipeline/mips_txt_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 20ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run 1.00us
+                  38@00003000: $ 8 <= 00000002
+                  42@00003004: $ 9 <= 00000004
+                  50@0000300c: $ 1 <= ffff0000
+                  54@00003010: $ 1 <= ffffffff
+                  58@00003014: $10 <= ffffffff
+                 102@0000301c: $16 <= 00000004
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+# run 20ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run 1.00us
+                  38@00003000: $ 8 <= 00000002
+                  42@00003004: $ 9 <= 00000004
+                  50@0000300c: $ 1 <= ffff0000
+                  54@00003010: $ 1 <= ffffffff
+                  58@00003014: $10 <= ffffffff
+                 102@0000301c: $16 <= 00000004
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+# run 20ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run 1.00us
+                  38@00003000: $ 8 <= 00000002
+                  42@00003004: $ 9 <= 00000004
+                  50@0000300c: $ 1 <= ffff0000
+                  54@00003010: $ 1 <= ffffffff
+                  58@00003014: $10 <= ffffffff
+                 102@0000301c: $16 <= 00000004

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="751" delta="unknown" >"E:/Verilog_tool/p6plus/pipeline/instruction_execute.v" Line 48: Redeclaration of ansi port <arg fmt="%s" index="1">start</arg> is not allowed
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"E:/Verilog_tool/p6plus/pipeline/instruction_decode.v" Line 84: Port <arg fmt="%s" index="1">ALUControl</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"E:/Verilog_tool/p6plus/pipeline/instruction_execute.v" Line 79: Port <arg fmt="%s" index="1">D_equal</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"E:/Verilog_tool/p6plus/pipeline/instruction_memory.v" Line 35: Port <arg fmt="%s" index="1">D_equal</arg> is not connected to this instance
+</msg>
+
+</messages>
+
